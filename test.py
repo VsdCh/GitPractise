@@ -1,1 +1,1 @@
-program ver 5.0 (edited in IDLE)
+program ver 6.0 (edited in IDLE)

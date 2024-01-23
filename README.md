@@ -8,6 +8,7 @@ seems like file was replaced (test.py >> test.py)
 7. made git push
 8. after push, on site ive nmade changes in README.md
 9. then i ipdate local repository from site (README.md should be updated)
+10. locally i write program ver 6.0 (edited in IDLE) in test.py, write 10th line in README.md and push again
 
 commands: git clone [url]
           git add --all
