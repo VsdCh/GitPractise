@@ -10,7 +10,13 @@ seems like file was replaced (test.py >> test.py)
 9. then i ipdate local repository from site (README.md should be updated)
 10. locally i write program ver 6.0 (edited in IDLE) in test.py, write 10th line in README.md and push again
 
-commands: git clone [url]
+commands: 
+          git clone [url]
+
           git add --all
+          
           git commit
+          
+          git commit -a --allow-empty-message -m ''
+          
           git push
