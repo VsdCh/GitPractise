@@ -11,8 +11,9 @@ seems like file was replaced (test.py >> test.py)
 10. locally i write program ver 6.0 (edited in IDLE) in test.py, write 10th line in README.md and push again
 
 commands: 
-          git clone [url]
 
+          git clone [url]
+          
           git add --all
           
           git commit
@@ -20,3 +21,5 @@ commands:
           git commit -a --allow-empty-message -m ''
           
           git push
+
+          git remote add <name> <url>
