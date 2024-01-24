@@ -44,6 +44,7 @@ commands:
           git push
 
           git remote add <name> <url>
+          
           git fetch <NameOfRepository>
           git pull <NameOfRepository> master
           git push
