@@ -16,13 +16,18 @@ There was diff between local and remote repository:
 
 ---------------------------------------------------------------------
 line1 = "teaCHeR"
+
 line2 = "reSeArcHer"
+
 print(line1.casefold())
+
 print(line2.casefold())
+
 <<<<<<< HEAD
 
 print(line1.capitalize())
 print(line2.capitalize())
+
 ||||||| a63fed2
 =======
 #делает так чтобы все line были строчными буквами
