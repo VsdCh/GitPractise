@@ -13,6 +13,7 @@ seems like file was replaced (test.py >> test.py)
 
 In PythonCorePractise:
 There was diff between local and remote repository:
+
 ===================================================================================
 line1 = "teaCHeR"
 line2 = "reSeArcHer"
@@ -31,7 +32,8 @@ HEAD = same part
 then only in local
 then only in remote
 ===================================================================================
-commands: 
+
+commands (NOTE: you should be in folder of your repository): 
 
           git clone [url]
           
