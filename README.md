@@ -54,8 +54,12 @@ commands (NOTE: you should be in folder of your repository):
           
           git push
 
+          git pull
+
           git remote add <name> <url>
           
           git fetch <NameOfRepository>
           git pull <NameOfRepository> master
           git push
+          
+git pull = (without any more) update changes from REMOTE to LOCAL
