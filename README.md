@@ -37,14 +37,15 @@ print(line2.capitalize())
 #делает так чтобы все line были строчными буквами
 >>>>>>> b9295020a2a3333b2e56bd199d3676880fe6a889
 --------------------------------------------------------------------
-HEAD = same part
+***Scheme***
+1. HEAD = same part
 
-then only in local
+2. only in local
 
-then only in remote
+3. only in remote
 
----------------------------------------------------------------------
-commands (NOTE: you should be in folder of your repository): 
+
+***commands*** (NOTE: you should be in folder of your repository): 
 
           git clone [url]
           
