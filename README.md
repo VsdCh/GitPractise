@@ -12,6 +12,7 @@ seems like file was replaced (test.py >> test.py)
 10. locally i write program ver 6.0 (edited in IDLE) in test.py, write 10th line in README.md and push again
 
 **Example**
+
 In PythonCorePractise:
 There was diff between local and remote repository:
 
