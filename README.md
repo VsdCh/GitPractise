@@ -11,6 +11,7 @@ seems like file was replaced (test.py >> test.py)
 9. then i ipdate local repository from site (README.md should be updated)
 10. locally i write program ver 6.0 (edited in IDLE) in test.py, write 10th line in README.md and push again
 
+**Example**
 In PythonCorePractise:
 There was diff between local and remote repository:
 
@@ -32,6 +33,7 @@ print(line2.capitalize())
 ||||||| a63fed2
 
 =======
+
 #делает так чтобы все line были строчными буквами
 >>>>>>> b9295020a2a3333b2e56bd199d3676880fe6a889
 --------------------------------------------------------------------
