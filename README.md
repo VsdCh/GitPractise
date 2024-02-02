@@ -67,5 +67,7 @@ print(line2.capitalize())
           git push
 
           git pull budget_calculator main --allow-unrelated-histories
+          git branch -M main
+          git push --set-upstream budget_calculator main
           
 git pull = (without any more) update changes from REMOTE to LOCAL
