@@ -65,5 +65,7 @@ print(line2.capitalize())
           git fetch <NameOfRepository>
           git pull <NameOfRepository> master
           git push
+
+          git pull budget_calculator main --allow-unrelated-histories
           
 git pull = (without any more) update changes from REMOTE to LOCAL
